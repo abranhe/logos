@@ -10,8 +10,6 @@
   <h5>Collection of my projects's logos</h5>
   <br>
   <br>
-  <br>
-  <br>
 </div>
  
 #  Categories 
@@ -20,6 +18,9 @@
 - [Combination Mark](#combination-mark)
 
 ### Pictorial Mark
+
+<br>
+<br>
 
 [<img src="https://cdn.abranhe.com/projects/topdf/topdf.svg" width="200px" height="200px">][topdf]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/lupe/logo.svg" width="200px" height="200px">][lupe]&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,9 +34,6 @@
 <br><br><br>
 [<img src="https://cdn.abranhe.com/projects/bigdecimal/logo.svg" width="200px" height="200px">][bigdecimal]&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br><br>
-
-<br>
-<br>
 
 ### Combination Mark
 
@@ -59,12 +57,6 @@
 [s-to-o]: https://github.com/abranhe/s-to-o
 [github-npm]: https://github.com/abranhe/github-npm
 
-<!-- Example 
-
-</a>&nbsp;&nbsp;&nbsp;
-[<img src="SRC" width="100px" ><br><sub>NAME</sub>][LINK_NAME]
-
--->
 
 ## License
 
