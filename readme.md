@@ -34,7 +34,7 @@
 <br><br><br>
 [<img src="https://cdn.abranhe.com/projects/bigdecimal/logo.svg" width="200px" height="200px">][bigdecimal]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/algorithms/logo.svg" width="200px" height="200px">][algorithms]&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.abranhe.com/projects/tryhtml/tryhtml.svg" width="200px" height="200px">][algorithms]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.abranhe.com/projects/tryhtml/tryhtml.svg" width="200px" height="200px">][tryhtml]&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br><br>
 
 
