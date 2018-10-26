@@ -33,7 +33,10 @@
 [<img src="https://cdn.abranhe.com/projects/github-npm/logo.svg" width="200px" height="200px">][github-npm]&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br><br>
 [<img src="https://cdn.abranhe.com/projects/bigdecimal/logo.svg" width="200px" height="200px">][bigdecimal]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.abranhe.com/projects/algorithms/logo.svg" width="200px" height="200px">][algorithms]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.abranhe.com/projects/tryhtml/logo.svg" width="200px" height="200px">][algorithms]&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br><br>
+
 
 ### Combination Mark
 
@@ -56,7 +59,8 @@
 [bigdecimal]: https://github.com/abranhe/bigdecimal
 [s-to-o]: https://github.com/abranhe/s-to-o
 [github-npm]: https://github.com/abranhe/github-npm
-
+[algorithms]: https://github.com/abranhe/algorithms
+[tryhtml]: https://tryht.ml/instagram
 
 ## License
 
