@@ -26,16 +26,24 @@
 [<img src="https://cdn.abranhe.com/projects/lupe/logo.svg" width="200px" height="200px">][lupe]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/s-to-o/logo.svg" width="200px" height="200px">][s-to-o]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/init-editorconfig/logo.png" width="200px" height="200px">][init-editorconfig]&nbsp;&nbsp;&nbsp;&nbsp;
-<br><br><br>
+<br>
 [<img src="https://cdn.abranhe.com/projects/consecutively-unique/logo.svg" width="200px" height="200px">][consecutively-unique]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/arg/logo.svg" width="200px" height="200px">][arg]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/gong/gong.svg" width="200px" height="200px">][gong]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/github-npm/logo.svg" width="200px" height="200px">][github-npm]&nbsp;&nbsp;&nbsp;&nbsp;
-<br><br><br>
+<br>
 [<img src="https://cdn.abranhe.com/projects/bigdecimal/logo.svg" width="200px" height="200px">][bigdecimal]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/algorithms/logo.svg" width="200px" height="200px">][algorithms]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/tryhtml/tryhtml.svg" width="200px" height="200px">][tryhtml]&nbsp;&nbsp;&nbsp;&nbsp;
-<br><br><br>
+[<img src="https://cdn.abranhe.com/projects/popular-repos/logo.png" width="200px" height="200px">][popular-repos]&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+[<img src="https://cdn.abranhe.com/projects/permutated/logo.svg" width="200px" height="200px">][permutated]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.abranhe.com/abraham/abrahamjs.png" width="200px" height="200px">][abranhe-js]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.abranhe.com/projects/sta/logo.svg" width="200px" height="200px">][sta]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.abranhe.com/projects/randn/randn.png" width="200px" height="200px">][randn]&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+[<img src="https://cdn.abranhe.com/projects/dtfe/dtfe.png" width="200px" height="200px">][dtfe]&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
 
 
 ### Combination Mark
@@ -61,6 +69,12 @@
 [github-npm]: https://github.com/abranhe/github-npm
 [algorithms]: https://github.com/abranhe/algorithms
 [tryhtml]: https://tryht.ml/instagram
+[popular-repos]: https://github.com/abranhe/popular-repos
+[permutated]: https://github.com/abranhe/permutated
+[abranhe-js]: https://github.com/abranhe/abranhe
+[sta]: https://github.com/abranhe/sta
+[randn]: https://github.com/abranhe/randn
+[dtfe]: https://github.com/abranhe/dtfe
 
 ## License
 
