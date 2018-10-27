@@ -16,7 +16,7 @@
 
 ## Description
 
-According to a [blog post](https://99designs.com/blog/tips/types-of-logos/) on **99desings.com**, exsit 7 different types of logos, though they’re all a combination of typography and images, each type of logo gives your brand a different feel. And since your logo is the first thing people will see, you want to make sure you get it right. 
+According to a [blog post](https://99designs.com/blog/tips/types-of-logos/) on **99desings.com**, there are 7 different types of logos, though they’re all a combination of typography and images, each type of logo gives your brand a different feel. And since your logo is the first thing people will see, you want to make sure you get it right. 
 
 I have decided to create a logo for each of my projects, though it's a hark task, it makes the project look great and you mix amazing design with code. Check out below my projects or the most of them, ordered by category.
 
