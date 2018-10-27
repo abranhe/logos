@@ -11,11 +11,25 @@
   <br>
   <br>
 </div>
- 
-#  Categories 
 
-- [Pictorial Mark](#pictorial-mark)
+<!-- https://web.archive.org/web/20181025174704/https://99designs.com/blog/tips/types-of-logos/# ->
+
+## Description
+
+According to a [blog post](https://99designs.com/blog/tips/types-of-logos/) on **99desings.com**, exsit 7 different types of logos, though they’re all a combination of typography and images, each type of logo gives your brand a different feel. And since your logo is the first thing people will see, you want to make sure you get it right. 
+
+I have decided to create a logo for each of my projects, though it's a hark task, it makes the project look great and you mix amazing design with code. Check out below my projects or the most of them, ordered by category.
+
+##  Categories 
+
+- [Abstract Mark](#abstract-mark)
+- [Mascot Logo](#mascot-logo)
 - [Combination Mark](#combination-mark)
+- [Emblem Logo](#emblem-logo)
+- [Letter Mark](#letter-mark)
+- [Pictorial Mark](#pictorial-mark)
+- [Word Mark](#word-mark)
+
 
 ### Pictorial Mark
 
@@ -26,22 +40,22 @@
 [<img src="https://cdn.abranhe.com/projects/lupe/logo.svg" width="200px" height="200px">][lupe]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/s-to-o/logo.svg" width="200px" height="200px">][s-to-o]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/init-editorconfig/logo.png" width="200px" height="200px">][init-editorconfig]&nbsp;&nbsp;&nbsp;&nbsp;
-<br>
+<br><br><br>
 [<img src="https://cdn.abranhe.com/projects/consecutively-unique/logo.svg" width="200px" height="200px">][consecutively-unique]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/arg/logo.svg" width="200px" height="200px">][arg]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/gong/gong.svg" width="200px" height="200px">][gong]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/github-npm/logo.svg" width="200px" height="200px">][github-npm]&nbsp;&nbsp;&nbsp;&nbsp;
-<br>
+<br><br><br>
 [<img src="https://cdn.abranhe.com/projects/bigdecimal/logo.svg" width="200px" height="200px">][bigdecimal]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/algorithms/logo.svg" width="200px" height="200px">][algorithms]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/tryhtml/tryhtml.svg" width="200px" height="200px">][tryhtml]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/popular-repos/logo.png" width="200px" height="200px">][popular-repos]&nbsp;&nbsp;&nbsp;&nbsp;
-<br>
+<br><br><br>
 [<img src="https://cdn.abranhe.com/projects/permutated/logo.svg" width="200px" height="200px">][permutated]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/abraham/abrahamjs.png" width="200px" height="200px">][abranhe-js]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/sta/logo.svg" width="200px" height="200px">][sta]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/randn/randn.png" width="200px" height="200px">][randn]&nbsp;&nbsp;&nbsp;&nbsp;
-<br>
+<br><br><br>
 [<img src="https://cdn.abranhe.com/projects/dtfe/dtfe.png" width="200px" height="200px">][dtfe]&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 
@@ -55,7 +69,7 @@
 [<img src="https://cdn.abranhe.com/projects/username/logo.svg" width="400px" height="200px">][username]&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br><br>
 
-<!-- Apps links -->
+<!----------------------------- Apps links ------------------------------>
 [topdf]: https://github.com/abranhe/topdf
 [username]: https://github.com/abranhe/username
 [gong]: https://github.com/abranhe/gong
