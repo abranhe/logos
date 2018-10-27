@@ -12,7 +12,7 @@
   <br>
 </div>
 
-<!-- https://web.archive.org/web/20181025174704/https://99designs.com/blog/tips/types-of-logos/# ->
+<!-- https://web.archive.org/web/20181025174704/https://99designs.com/blog/tips/types-of-logos/# -->
 
 ## Description
 
