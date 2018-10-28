@@ -33,8 +33,7 @@ I have decided to create a logo for each of my projects, though it's a hark task
 
 ### Pictorial Mark
 
-<br>
-<br>
+<br><br>
 
 [<img src="https://cdn.abranhe.com/projects/topdf/topdf.svg" width="200px" height="200px">][topdf]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/lupe/logo.svg" width="200px" height="200px">][lupe]&nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,17 +55,15 @@ I have decided to create a logo for each of my projects, though it's a hark task
 [<img src="https://cdn.abranhe.com/projects/sta/logo.svg" width="200px" height="200px">][sta]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/randn/randn.png" width="200px" height="200px">][randn]&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br><br>
-[<img src="https://cdn.abranhe.com/projects/dtfe/dtfe.png" width="200px" height="200px">][dtfe]&nbsp;&nbsp;&nbsp;&nbsp;
-<br>
-
 
 ### Combination Mark
 
-<br>
-<br>
+<br><br>
 
 [<img src="https://cdn.abranhe.com/projects/openup/logo.png" width="400px" height="200px">][openup]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/username/logo.svg" width="400px" height="200px">][username]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.abranhe.com/projects/wtii/logo.svg" width="200px" height="200px">][wtii]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.abranhe.com/projects/dtfe/dtfe.png" width="400px" height="200px">][dtfe]&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br><br>
 
 <!----------------------------- Apps links ------------------------------>
@@ -89,6 +86,7 @@ I have decided to create a logo for each of my projects, though it's a hark task
 [sta]: https://github.com/abranhe/sta
 [randn]: https://github.com/abranhe/randn
 [dtfe]: https://github.com/abranhe/dtfe
+[wtii]: https://github.com/abranhe/wtii
 
 ## License
 
