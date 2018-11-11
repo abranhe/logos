@@ -57,6 +57,8 @@ I have decided to create a logo for each of my projects, though it's a hark task
 <br><br><br>
 [<img src="https://cdn.abranhe.com/projects/multiplication/logo.svg" width="200px" height="200px">][multiplication]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.abranhe.com/projects/subtraction/logo.svg" width="200px" height="200px">][subtraction]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.abranhe.com/projects/binary/logo.svg" width="200px" height="200px">][binary]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.abranhe.com/projects/os/os.svg" width="200px" height="200px">][os]&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br><br>
 
 ### Combination Mark
@@ -92,6 +94,8 @@ I have decided to create a logo for each of my projects, though it's a hark task
 [wtii]: https://github.com/abranhe/wtii
 [multiplication]: https://github.com/abranhe/multiplication
 [subtraction]: https://github.com/abranhe/subtraction
+[binary]: https://github.com/abranhe/binary.c
+[os]: https://github.com/abranhe/os.c
 
 ## License
 
